@@ -3,7 +3,7 @@
     "short_name": "Web Leaders",
     "description": "Web Community Leaders landing page",
     "lang": "en-GB",
-    "start_url": "/",
+    "start_url": "https://lyamovsergey.github.io/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#000000",
