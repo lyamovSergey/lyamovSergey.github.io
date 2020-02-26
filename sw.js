@@ -2,7 +2,7 @@
 
 importScripts('sw-toolbox.js');
 
-toolbox.precache(["index.html","css/**.css", "js/**.js"]);
+toolbox.precache(["index.html","css/main.css", "js/mainScript.js"]);
 
 toolbox.router.get('/images/*', toolbox.cacheFirst);
 
