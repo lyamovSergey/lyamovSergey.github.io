@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.039bdc3b3eb680c6ff6beb1623e39bfb.js"
+  "/precache-manifest.fbbd00b1e255b6a0b41021528498c09a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "art-catalog"});
